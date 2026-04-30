@@ -1,4 +1,4 @@
-# Abbas Agha — AI Financial Copilot
+# Abbas Agha - AI Financial Copilot
 
 Abbas Agha is an AI-powered financial copilot built on top of the bunq banking API.
 
